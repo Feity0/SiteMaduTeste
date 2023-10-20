@@ -8,7 +8,7 @@ function toggleMode() {
   img.setAttribute("src", "./assets/avatar-light.png")
   img.setAttribute("alt", "Foto da madu mandando beijinho e com cara sexy")
  }else {
-  img.setAttribute('src', "./assets/avatar.png")
+  img.setAttribute('src', "./assets/Avatar.png")
   img.setAttribute("alt", "Foto de Madu dando lingua usando óculos")
  }
 }
