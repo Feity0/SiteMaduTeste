@@ -16,10 +16,6 @@ Programa desenvolvido tendo como base as aulas disponibilizadas pela RocketSeat 
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
