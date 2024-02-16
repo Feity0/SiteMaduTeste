@@ -6,9 +6,9 @@ function toggleMode() {
 
  if(html.classList.contains("light")){
   img.setAttribute("src", "./assets/avatar-light.png")
-  img.setAttribute("alt", "Foto da madu mandando beijinho e com cara sexy")
+  img.setAttribute("alt", "Foto Luiz Github")
  }else {
   img.setAttribute('src', "./assets/Avatar.png")
-  img.setAttribute("alt", "Foto de Madu dando lingua usando óculos")
+  img.setAttribute("alt", "Foto Luiz sorrindo no carro")
  }
 }
