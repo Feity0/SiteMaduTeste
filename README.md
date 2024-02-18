@@ -1,4 +1,4 @@
-<h1 align="center"> SiteMaduTeste </h1>
+<h1 align="center"> LinkTree </h1>
 
 <p align="center">
 Programa desenvolvido tendo como base as aulas disponibilizadas pela RocketSeat - Discover <br/>
